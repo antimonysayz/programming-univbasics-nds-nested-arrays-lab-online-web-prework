@@ -48,8 +48,7 @@ def array_literal_matrix
   "Mario Incandenza",
   "Michael Pemulis"
 ]
-ar1.sort
-ar2.sort
+new_array = [ar1.sort, ar2.sort]
 new_array
 end
 
