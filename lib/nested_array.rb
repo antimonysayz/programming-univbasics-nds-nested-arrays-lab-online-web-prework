@@ -50,8 +50,7 @@ def array_literal_matrix
 ]
 ar1.sort
 ar2.sort
-ar1 
-ar2
+new_array
 end
 
 def matrix_lookup(matrix, row, column)
