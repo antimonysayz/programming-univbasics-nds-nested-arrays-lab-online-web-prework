@@ -17,7 +17,6 @@ ENFIELD_TENNIS_ACADEMY = [
 ]
 
 def assembled_matrix
-  def assembled_matrix
  residents = [[
   "Don Gately",
   "Joelle van Dyne",
@@ -32,7 +31,6 @@ def assembled_matrix
   "Michael Pemulis"
 ]]
 
-end
 end
 
 def array_literal_matrix
