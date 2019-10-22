@@ -34,20 +34,22 @@ def assembled_matrix
 end
 
 def array_literal_matrix
-  residents = [[
+  ar1 = [
   "Don Gately",
   "Joelle van Dyne",
   "Pat M.",
   "Kate Gompert",
   "Bruce Green"
-], [
+] 
+  ar2 = [
   "Hal Incandenza",
   "Lyle",
   "Gerhard Schtitt",
   "Mario Incandenza",
   "Michael Pemulis"
-]]
-residents.sort
+]
+residents = ar1.sort + ar2.sort
+residents
 end
 
 def matrix_lookup(matrix, row, column)
