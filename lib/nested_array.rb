@@ -50,6 +50,8 @@ def array_literal_matrix
 ]
 ar1.sort
 ar2.sort
+ar1 
+ar2
 end
 
 def matrix_lookup(matrix, row, column)
