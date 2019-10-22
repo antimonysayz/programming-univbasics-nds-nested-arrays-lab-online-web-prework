@@ -48,8 +48,8 @@ def array_literal_matrix
   "Mario Incandenza",
   "Michael Pemulis"
 ]
-residents = ar1.sort + ar2.sort
-residents
+ar1.sort
+ar2.sort
 end
 
 def matrix_lookup(matrix, row, column)
