@@ -17,22 +17,9 @@ ENFIELD_TENNIS_ACADEMY = [
 ]
 
 def assembled_matrix
- 
-  ENNET_HOUSE = [
-  "Don Gately",
-  "Joelle van Dyne",
-  "Pat M.",
-  "Kate Gompert",
-  "Bruce Green"
-]
-
-ENFIELD_TENNIS_ACADEMY = [
-  "Hal Incandenza",
-  "Lyle",
-  "Gerhard Schtitt",
-  "Mario Incandenza",
-  "Michael Pemulis"
-]
+  residents = [
+    
+    ]
 end
 
 def array_literal_matrix
