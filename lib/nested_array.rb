@@ -17,9 +17,22 @@ ENFIELD_TENNIS_ACADEMY = [
 ]
 
 def assembled_matrix
-  residents = [
-    
-    ]
+  def assembled_matrix
+ residents = [[
+  "Don Gately",
+  "Joelle van Dyne",
+  "Pat M.",
+  "Kate Gompert",
+  "Bruce Green"
+], [
+  "Hal Incandenza",
+  "Lyle",
+  "Gerhard Schtitt",
+  "Mario Incandenza",
+  "Michael Pemulis"
+]]
+
+end
 end
 
 def array_literal_matrix
